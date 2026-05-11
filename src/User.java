@@ -3,7 +3,7 @@ public class User {
     int age;
 
     void    sayHello(){
-        System.out.println("Привет! Я " + name);
+        System.out.println("Привет, Мир! Я " + name);
     }
 }
 
